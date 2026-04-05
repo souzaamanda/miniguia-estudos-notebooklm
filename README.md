@@ -1,5 +1,5 @@
 # miniguia-estudos-notebooklm
- Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
+
 A **Análise de Dados** é o processo de **coleta, análise e interpretação de informações** para entender fenômenos e extrair conclusões significativas. No mundo contemporâneo, ela funciona como uma ferramenta para descrever conjuntos de dados complexos de forma simplificada e, posteriormente, realizar inferências e julgamentos sobre uma população a partir de amostras.
 
 Para um profissional que trabalha com dados, este assunto é de **extrema relevância**, pois permite **estruturar informações desorganizadas e extrair insights valiosos** que seriam impossíveis de visualizar sem as técnicas adequadas. Dominar a análise de dados é uma habilidade essencial para transformar dados brutos em decisões estratégicas, sendo o pilar fundamental para o desenvolvimento de modelos de **Machine Learning** eficazes.
